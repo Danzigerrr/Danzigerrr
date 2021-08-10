@@ -24,5 +24,5 @@ Now working on:\
 💻 "Fooder" web app\
 \
 Upcoming:\
-📗 Python\
+📗 Python
 

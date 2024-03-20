@@ -1,28 +1,23 @@
-👋 Hi, I’m Krzysztof Nazar - @krzychun\
-👀 I’m interested in Sports, coding and having fun\
-🌱 I’m currently learning C/C++\
-💞️ I’m looking to collaborate on anything practical\
-📫 You can reach me via krzysztof.nazar@best.gdansk.pl\
-\
-Achievments:\
-✔️ Advanced English \
-✔️ INTERNATIONAL BACCALAUREATE\
-✔️ 2nd year CS student at the Gdańsk University of Technology\
-\
-Skills:\
-💡 HTML\
-💡 CSS\
-💡 JavaScript\
-💡 C/C++\
+👋 Hi, I’m Krzysztof Nazar\
+✔️ 4th year CS M.Sc.student at the Gdańsk University of Technology\
+📫 You can reach me via krzysztof.nazar01@gmail.com
+
+
+Main skills:\
+💡 Python\
 💡 Java\
-💡 MICROSOFT VISUAL STUDIO\
-💡 WINDOWS\
-💡 Linux\
-\
+💡 SQL\
+💡 JavaScript\
+💡 Windows\
+💡 Linux
+
 Now working on:\
-💻 SPOJ exercises\
-💻 "Fooder" web app\
-\
+💻 Docker skills\
+💻 AWS skills
+
 Upcoming:\
-📗 Python
+📗 RabbitMQ\
+📗 Microservices using Java Spring Boot
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Danzigerrr&theme=github-compact)
 

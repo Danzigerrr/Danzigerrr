@@ -1,6 +1,7 @@
 👋 Hi, I’m Krzysztof Nazar\
 ✔️ 4th year CS M.Sc.student at the Gdańsk University of Technology\
 🏅 [Professional Scrum Developer I (PSD I) Certified](https://www.scrum.org/user/1245182)\
+🌐 Find me on [LinkedIn](https://www.linkedin.com/in/krzysztofnazar/)\
 📫 You can reach me via krzysztof.nazar01@gmail.com
 
 

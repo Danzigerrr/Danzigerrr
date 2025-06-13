@@ -12,7 +12,7 @@
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-222222.svg?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-222222.svg?style=for-the-badge&logo=java&logoColor=007396)
+![Java](https://img.shields.io/badge/Java-222222.svg?style=for-the-badge&logo=openjdk&logoColor=007396)
 ![SQL](https://img.shields.io/badge/SQL-222222.svg?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
@@ -42,12 +42,12 @@
 - [![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-222222.svg?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://www.credly.com/badges/b5515dd5-4861-4310-989f-d8da7ba8c468/public_url)
 
 ### 🏋️‍♀️Now working on:
-- AWS skills\
-- PostgreSQL \
+- AWS skills
+- PostgreSQL
 - MongoDB
 
 ### 🎯 Want to learn next:
-- GraphQL\
+- GraphQL
 - LLMs 
 
 ## GitHub Activity Summary

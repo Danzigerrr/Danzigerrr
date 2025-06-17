@@ -2,7 +2,7 @@
 
 <p align="left">👋 Hi there! I'm a Computer Science student in the final semester of my Master’s at Gdańsk University of Technology. Over the past few years, I’ve gained practical experience in Python development and solid software engineering practices through internships and multiple projects. I enjoy writing clean, maintainable code and building solutions that genuinely help users solve daily problems or automate them. I’m also an active part of the local tech scene, regularly attending local developer meetups and conferences. I’m now looking to kick off my career as a software developer, with the ambition for the future to become a leader in an international team.</p>
 
-## Facts:
+## About me
 ✔️ Computer Science Master's student at the Gdańsk University of Technology\
 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/krzysztofnazar/)\
 📫 You can also reach me via **krzysztof.nazar01@gmail.com**\
@@ -37,6 +37,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-222222?style=for-the-badge&logo=github-actions&logoColor=FFFFFF)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
+## 📝 Life-long Learning
 ### Certifications
 - [![Professional Scrum Developer I](https://img.shields.io/badge/PSD_I_Certified-222222.svg?style=for-the-badge&logo=scrumalliance&logoColor=FFFFFF)](https://www.credly.com/badges/a2fb3b41-ba96-48e9-acb4-e9c99132a494/public_url)
 - [![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-222222.svg?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://www.credly.com/badges/b5515dd5-4861-4310-989f-d8da7ba8c468/public_url)

@@ -43,13 +43,13 @@
 - [![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-222222.svg?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://www.credly.com/badges/b5515dd5-4861-4310-989f-d8da7ba8c468/public_url)
 
 ### 🏋️‍♀️Now working on:
-- AWS skills
-- PostgreSQL
+- LLMs (LangChain with OpenAI) - project: [Worldwide Travel Destinations AI App](https://github.com/Danzigerrr/Worldwide-Travel-Destinations-AI-App)
 - MongoDB
+- AWS skills
 
 ### 🎯 Want to learn next:
 - GraphQL
-- LLMs 
+- PostgreSQL
 
 ## GitHub Activity Summary
 <!-- contributions stats chart: --> 

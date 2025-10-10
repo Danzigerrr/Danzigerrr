@@ -3,10 +3,11 @@
 <p align="left">👋 Hi there! I've recently completed my Master’s degree in Computer Science at Gdańsk University of Technology. Over the past few years, I’ve gained practical experience in Python development and solid software engineering practices through internships and multiple projects. I enjoy writing clean, maintainable code and building solutions that genuinely help users solve daily problems or automate them. I’m also an active part of the local tech scene, regularly attending local developer meetups and conferences. I’m now looking to kick off my career as a software developer, with the ambition for the future to become a leader in an international team.</p>
 
 ## About me
-✔️ Computer Science Master's student at the Gdańsk University of Technology\
+✔️ Master's degree in Computer Science from the [Gdańsk University of Technology](https://pg.edu.pl/en)\
 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/krzysztofnazar/)\
 📫 You can also reach me via **krzysztof.nazar01@gmail.com**\
-💡 Check out my certifications on [Credly](https://www.credly.com/users/krzysztof-nazar)
+💡 Check out my certifications on [Credly](https://www.credly.com/users/krzysztof-nazar)\
+🧩 Solve algorithmic challenges with me on [LeetCode](https://leetcode.com/u/Danzigerrr/)
 
 ## 🛠 Technologies and Tools:
 

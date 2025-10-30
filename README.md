@@ -7,7 +7,8 @@
 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/krzysztofnazar/)\
 📫 You can also reach me via **krzysztof.nazar01@gmail.com**\
 💡 Check out my certifications on [Credly](https://www.credly.com/users/krzysztof-nazar)\
-🧩 Solve algorithmic challenges with me on [LeetCode](https://leetcode.com/u/Danzigerrr/)
+🧩 Solve algorithmic challenges with me on [LeetCode](https://leetcode.com/u/Danzigerrr/)\
+🤝 Connect with me on [Meetup](https://www.meetup.com/members/411751939)
 
 ## 🛠 Technologies and Tools:
 

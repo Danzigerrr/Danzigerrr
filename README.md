@@ -1,6 +1,15 @@
 # Krzysztof Nazar
 
-<p align="left">👋 Hi there! I've recently completed my Master’s degree in Computer Science at Gdańsk University of Technology. Over the past few years, I’ve gained practical experience in Python development and solid software engineering practices through internships and multiple projects. I enjoy writing clean, maintainable code and building solutions that genuinely help users solve daily problems or automate them. I’m also an active part of the local tech scene, regularly attending local developer meetups and conferences. I’m now looking to kick off my career as a software developer, with the ambition for the future to become a leader in an international team.</p>
+<p align="left">👋 Hi there! I've recently completed my Master’s degree in Computer Science at Gdańsk University of Technology, and I'm excited to share that I have started my professional career as an **Associate Data Engineer at automotiveMastermind Inc. (S&P Global Mobility)**! I've gained practical experience in Python development and solid software engineering practices, and now I'm focused on tackling large-scale data challenges. I enjoy writing clean, maintainable code and building solutions that genuinely help users solve daily problems or automate them.</p>
+
+## 💼 Current Focus: Associate Data Engineer at automotiveMastermind Inc.
+
+My primary focus is on building robust and scalable data solutions in a cloud-native environment:
+
+* **Data Pipeline Development:** Building and supporting data ingestion and processing pipelines using **Python** to ensure the efficient extraction, loading, and transformation (ETL) of big data from diverse sources.
+* **Data Modeling & Warehousing:** Assembling large, complex datasets and developing data warehouses and marts (**SQL/Postgres, BigQuery**) that provide actionable insights into product efficacy and customer behavior for the automotive retail market.
+* **Reliability & Monitoring:** Creating real-time monitoring dashboards and alerting mechanisms to enhance data processing reliability and performance.
+* **Cloud & Scalability:** Contributing to the continuous improvement of our cloud-native environment and data frameworks to enhance scalability and efficiency.
 
 ## About me
 ✔️ Master's degree in Computer Science from the [Gdańsk University of Technology](https://pg.edu.pl/en)\
@@ -51,7 +60,6 @@
 
 ### 🎯 Want to learn next:
 - GraphQL
-- PostgreSQL
 
 ## GitHub Activity Summary
 <!-- contributions stats chart: --> 

@@ -4,20 +4,21 @@
 
 ## 💼 Current Focus: Associate Data Engineer at automotiveMastermind Inc.
 
-My primary focus is on building robust and scalable data solutions in a cloud-native environment:
-
-* **Data Pipeline Development:** Building and supporting data ingestion and processing pipelines using **Python** to ensure the efficient extraction, loading, and transformation (ETL) of big data from diverse sources.
-* **Data Modeling & Warehousing:** Assembling large, complex datasets and developing data warehouses and marts (**SQL/Postgres, BigQuery**) that provide actionable insights into product efficacy and customer behavior for the automotive retail market.
-* **Reliability & Monitoring:** Creating real-time monitoring dashboards and alerting mechanisms to enhance data processing reliability and performance.
-* **Cloud & Scalability:** Contributing to the continuous improvement of our cloud-native environment and data frameworks to enhance scalability and efficiency.
+My primary focus is on building scalable data solutions in a cloud-native environment. I am responsible for:
+* Building and supporting data ingestion and processing pipelines using Python. These pipelines perform efficient extraction, loading, and transformation (ETL) of big data.
+* Assembling large, complex datasets and developing data warehouses and lakes in Postgres and BigQuery that provide insights on customer behavior for the automotive retail market.
+* Creating real-time monitoring dashboards and alerting mechanisms to improve data processing reliability.
+* Contributing to the continuous improvement of our cloud-native environment and data frameworks to enhance scalability and efficiency.
 
 ## About me
 ✔️ Master's degree in Computer Science from the [Gdańsk University of Technology](https://pg.edu.pl/en)\
 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/krzysztofnazar/)\
 📫 You can also reach me via **krzysztof.nazar01@gmail.com**\
 💡 Check out my certifications on [Credly](https://www.credly.com/users/krzysztof-nazar)\
+📈 See the completed courses in my [DataCamp portfolio](https://www.datacamp.com/portfolio/s184698)
 🧩 Solve algorithmic challenges with me on [LeetCode](https://leetcode.com/u/Danzigerrr/)\
 🤝 Connect with me on [Meetup](https://www.meetup.com/members/411751939)
+
 
 ## 🛠 Technologies and Tools:
 
@@ -28,6 +29,7 @@ My primary focus is on building robust and scalable data solutions in a cloud-na
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Frameworks & Libraries
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-222222.svg?logo=google-cloud&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-222222.svg?style=for-the-badge&logo=django&logoColor=092E20)
 ![Flask](https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=000)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-222222.svg?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
